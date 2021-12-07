@@ -1,0 +1,9 @@
+werkzeug
+wtforms
+flask
+flask_wtf
+email_validator
+flask_cors
+flask_sqlalchemy
+SQLAlchemy
+jwt

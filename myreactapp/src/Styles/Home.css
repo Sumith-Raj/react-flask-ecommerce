@@ -1,0 +1,9 @@
+#Card {
+  background-color: rgb(192, 224, 250);
+  border:solid snow;
+}
+.Box{display: inline-block;box-shadow: 0 4px 8px 0 rgba(44, 108, 180, 0.527),
+  0 6px 20px 0 rgba(44, 108, 180, 0.267);
+  background-color: rgb(225, 240, 247);
+
+}
